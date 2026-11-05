@@ -6,3 +6,5 @@ Pages statiques de l'app Yalla ([code](https://github.com/Ali-Lamhene/GPS)), ser
 - `.well-known/assetlinks.json` : relie le domaine à l'app Android (App Links), pour que les liens ouvrent l'app directement.
 - `.nojekyll` : sert les fichiers tels quels, dossier `.well-known` compris.
 - `robots.txt` : aucune indexation.
+
+Règle : aucun autre dépôt du compte ne doit s'appeler `l` ni `.well-known`, ni avoir GitHub Pages activé. Un site de projet servi sous `ali-lamhene.github.io/l/` remplacerait la page de repli.
