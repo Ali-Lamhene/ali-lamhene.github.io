@@ -1,10 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "org.gpssanstexte.app",
-      "sha256_cert_fingerprints": ["CA:A7:FE:2F:A4:CF:5D:4D:CE:DA:34:E9:E8:DB:62:30:12:BD:EA:5C:B7:66:82:E3:67:F1:80:B1:FD:BE:76:0D"]
+      "package_name": "io.github.alilamhene.yalla",
+      "sha256_cert_fingerprints": [
+        "A3:CC:6D:AF:14:B3:7A:7A:8D:38:33:ED:21:36:51:D2:DE:88:8C:40:DC:24:68:63:7C:CB:E1:F4:3A:2F:61:41"
+      ]
     }
   }
 ]
