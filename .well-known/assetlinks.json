@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.gpssanstexte.app",
+      "sha256_cert_fingerprints": ["CA:A7:FE:2F:A4:CF:5D:4D:CE:DA:34:E9:E8:DB:62:30:12:BD:EA:5C:B7:66:82:E3:67:F1:80:B1:FD:BE:76:0D"]
+    }
+  }
+]
