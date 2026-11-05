@@ -1,6 +1,6 @@
 # ali-lamhene.github.io
 
-Pages statiques de l'app Yalla ([code](https://github.com/Ali-Lamhene/GPS)), servies par GitHub Pages.
+Pages statiques de l'app Yalla map ([code](https://github.com/Ali-Lamhene/GPS)), servies par GitHub Pages.
 
 - `l/` : page ouverte par un lien de partage de lieu quand l'app n'est pas installée. Sans texte, sans script, sans appel externe. Le lieu reste après `#` et n'est jamais envoyé au serveur.
 - `.well-known/assetlinks.json` : relie le domaine à l'app Android (App Links), pour que les liens ouvrent l'app directement.
